@@ -1,0 +1,17 @@
+body {
+    background-color: F2F2F2;
+}
+.red{
+    color:red;
+    }
+.form-area
+{
+    background-color: #FAFAFA;
+	padding: 10px 40px 60px;
+	margin: 10px 0px 60px;
+	border: 1px solid GREY;
+}
+    
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+        background-color: #827FFE !important;
+}    
